@@ -37,7 +37,7 @@ The crossover between design and programming has always been of interest to me, 
 <p align="left">
 
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayushi-soni-145b28260/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ayushi-soni-145b28260/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ayushi-soni-145b28260/" target="blank">
 
 </p>
 ![Visitor Count](https://profile-counter.glitch.me/ayushi9797/count.svg)
