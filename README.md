@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+<a href="https://ayushi9797.github.io/">My Portfolio...</a>
 <!--
 **ayushi9797/ayushi9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-<a href="https://ayushi9797.github.io/">My Portfolio...</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
