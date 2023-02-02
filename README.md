@@ -63,6 +63,8 @@ Languages and Tools:
 
 <p><img background-color="pink"; align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushi9797&show_icons=true&locale=en&layout=compact" alt="ayushi9797" /></p>
 
+<br>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ayushi9797&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 
