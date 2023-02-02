@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **NodeJS ,MongoDB,HTML,CSS,Javascript**
 
-- 📫 How to reach me **soniayushi345@gmail.com**
+<!-- - 📫 How to reach me **soniayushi345@gmail.com** -->
 
 - ⚡ Fun fact **I Am very dedicated**
 
