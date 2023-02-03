@@ -1,5 +1,6 @@
 ### Hi there 👋
 <a href="https://ayushi9797.github.io/">My Portfolio...</a>
+<a href="https://www.linkedin.com/in/ayushi-soni-145b28260/">linkdin...</a>
 <!--
 **ayushi9797/ayushi9797** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +22,7 @@ The crossover between design and programming has always been of interest to me, 
 
 - 💬 Ask me about **NodeJS ,MongoDB,HTML,CSS,Javascript**
 
-<!-- - 📫 How to reach me **soniayushi345@gmail.com** -->
+
 
 - ⚡ Fun fact **I Am very dedicated**
 
