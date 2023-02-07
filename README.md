@@ -25,6 +25,11 @@
 - ⚡ Fun fact **I Am very dedicated**
 
 - ⭐⭐ <a href="https://ayushi9797.github.io/"> CHECK OUT MY PORTFOLIO </a>
+- <br/>
+
+<img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
