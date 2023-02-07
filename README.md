@@ -4,9 +4,11 @@
 <h3 align="center">A passionate Full Stack developer </h3>
 <h4> “ Code is like humor. When you have to explain it, it’s bad.” – Cory House
 <img alt="image" width="30%" align="right" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/> <br>
-<br>
- </h4>
 
+ </h4>
+<br>
+
+<h2 align="left">👷</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi9797&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi9797" /> </p>
 
