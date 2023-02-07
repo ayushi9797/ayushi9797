@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayushi Soni</h1>
+<h1 align="center">Hi नमस्ते🙏👋, I'm Ayushi Soni</h1>
 
 
 <h3 align="center">A passionate Full Stack developer </h3>
