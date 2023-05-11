@@ -23,6 +23,7 @@
 - 💬 Ask me about **NodeJS ,MongoDB,HTML,CSS,Javascript**
 
 - ⚡ Fun fact **I Am very dedicated**
+-My Resume https://drive.google.com/file/d/1nfJ0k1ErSj7KqhOWDk0UeAjmRK1D4ab9/view?usp=drivesdk
 
 - ⭐⭐ <a href="https://ayushi9797.github.io/"> CHECK OUT MY PORTFOLIO </a>
 - <br/>
