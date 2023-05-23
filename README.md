@@ -2,7 +2,8 @@
 
 
 <h2 align="center"></h2>
-    <img src=""/>
+    <img src="![logoo png](https://github.com/ayushi9797/ayushi9797/assets/112810259/29de3d94-5a1c-48b8-8572-be5c1b27d8c7)
+"/>
     <br/><br/>
     <div align="center">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/ayushi-soni-145b28260/">
