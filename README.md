@@ -1,5 +1,5 @@
 <h1 align="center">Hi नमस्ते🙏👋, I'm Ayushi Soni</h1>
-
+<img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
 
 <h2 align="center"></h2>
     <img src="![logoo png](https://github.com/ayushi9797/ayushi9797/assets/112810259/29de3d94-5a1c-48b8-8572-be5c1b27d8c7)
@@ -198,7 +198,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
   
   
 <br />
-<img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
+
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
   </p>
