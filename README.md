@@ -1,4 +1,39 @@
 <h1 align="center">Hi नमस्ते🙏👋, I'm Ayushi Soni</h1>
+
+<!-- deivder -->
+<h4 align="center">
+<br />
+<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
+width="30px">&nbsp; Ayushi Soni </h4>
+<img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
+
+<br /> 
+<br />
+
+- 🌱 I’m currently learning **Full Stack Development**
+
+
+- 👨‍💻 some of my projects are available at : [Ayushi.com](https://ayushi9797.github.io/)
+
+
+- 💬 Ask me about **Node Backend,SQL,Html,Css,Java Script**
+
+- 📫 How to reach me **soniayushi345@gmail.com**
+
+- 📄 Know about my experiences
+
+- 📄  My Resume :   [Ayushi_Soni_Resume](https://drive.google.com/file/d/1nfJ0k1ErSj7KqhOWDk0UeAjmRK1D4ab9/view?usp=drivesdk)
+<br /> <br />
+<br /> <br />
+
+
+<!-- deivder -->
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+
+<br />
+
+<!-- deivder -->
 <img src="https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif" alt="CAT"/>
 
 <h2 align="center"></h2>
@@ -40,40 +75,6 @@
 
 <br />
 
-<!-- deivder -->
-<h4 align="center">
-<br />
-<img  src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" 
-width="30px">&nbsp; Ayushi Soni </h4>
-<img align="right" src="https://github.com/pemudakoding/pemudakoding/raw/master/Images/coding_2.gif" width = "30%"/>
-
-<br /> 
-<br />
-
-- 🌱 I’m currently learning **Full Stack Development**
-
-
-- 👨‍💻 some of my projects are available at : [Ayushi.com](https://ayushi9797.github.io/)
-
-
-- 💬 Ask me about **Node Backend,SQL,Html,Css,Java Script**
-
-- 📫 How to reach me **soniayushi345@gmail.com**
-
-- 📄 Know about my experiences
-
-- 📄  My Resume :   [Ayushi_Soni_Resume](https://drive.google.com/file/d/1nfJ0k1ErSj7KqhOWDk0UeAjmRK1D4ab9/view?usp=drivesdk)
-<br /> <br />
-<br /> <br />
-
-
-<!-- deivder -->
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
-
-<br />
-
-<!-- deivder -->
 
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;Tech Stack..</h4>
