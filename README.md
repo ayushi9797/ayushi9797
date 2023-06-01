@@ -16,7 +16,7 @@ width="30px">&nbsp; Ayushi Soni </h4>
 - 👨‍💻 some of my projects are available at : [Ayushi.com](https://ayushi9797.github.io/)
 
 
-- 💬 Ask me about **Node Backend,SQL,Html,Css,Java Script**
+- 💬 Ask me about **Node Backend,SQL,Html,Css,Java Script,Reactjs,Data Structure and algorithrm**
 
 - 📫 How to reach me **soniayushi345@gmail.com**
 
